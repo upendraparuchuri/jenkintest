@@ -1,6 +1,5 @@
 package com.test;
 
-import javax.swing.plaf.synth.SynthSeparatorUI;
 
 public class Test {
 
